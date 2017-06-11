@@ -1,0 +1,44 @@
+html {
+      height: 100%;
+      background-color: #69B2B2;
+    }
+    body {
+       height: 100%;
+    }
+
+    header {
+        background-color:#09575E;
+        padding:20px;
+        border: 10px solid #000000;
+        margin-left:350px;
+        font-size: 30px;
+        text-align: center;
+        display: block;
+        width: 490px;
+    }
+    nav {
+        line-height:45px;
+        background-color: #aaaaaa;
+        width:180px;
+        margin-left:350px;
+        margin-top: 15px;
+        height: 300px;
+        border:13px solid #000000;
+    }
+    nav ul {
+        list-style-type: none;
+    }
+    a {
+        color: #blue;
+    }
+    section {
+        width: 316px;
+        margin-left: 600px;
+        margin-top: -345px;
+        display: inline-block;
+    }
+    aside {
+      width: ;
+      display: inline-block ;
+      vertical-align: top;
+      background-color:;

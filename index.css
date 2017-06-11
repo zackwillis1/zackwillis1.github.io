@@ -1,0 +1,71 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+
+    html {
+      height: 100%;
+    }
+    body {
+      width: 800px;
+
+    }
+
+    header {
+        background-color:#ede8d9;
+        border: 5px solid #000000;
+        padding:5px;
+        font-size: ;
+        display: block;
+        width: 1250px;
+    }
+    nav {
+      height: 600px;
+        line-height:#ede8d9;
+        background-color:#ede8d9
+        width:125px;
+        background-color:;
+        display: inline-block;
+        vertical-align: top;
+        align-self: flex-start;
+    }
+    nav ul {
+        list-style-type: none;
+        border: 5px solid #000000;
+        padding:5px;
+        height: 95%;
+        align-items: flex-start;
+        background-color:#ede8d9
+    }
+
+    a {
+        color: ;
+    }
+    section{
+      width:640px;
+      display: inline-block;
+      padding: 10px;
+      align-items: flex-start;
+    }
+
+    section p {
+      width: 1250vw;
+    }
+footer{
+  background-color:#ede8d9;
+  width: 1250px;
+  display: block;
+  text-align: center;
+  border: 5px solid #000000;
+
+}
+
+    #meeting {
+      display: block;
+      margin-right: auto;
+      margin-left: auto;
+    }
+    .right {
+    float: right;
+    width: 100%;
+
+}
